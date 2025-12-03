@@ -280,4 +280,4 @@ If this project helped you, please consider:
 
 ---
 
-*Built with ❤️ and modern web technologies by [rishik0821](https://github.com/rishik0821)*
+*Built with ❤️ and modern web technologies by [manish](https://github.com/manishreddy241)*
